@@ -30,8 +30,16 @@ body {
     margin-right: 22%;
 }
 
-.logo-img {
+.html-logo-img {
     float: left;    
     width: 30%;
     height: 40%;
+}
+
+.css-logo-img {
+    float: left;
+    width: 25%;
+    height: 35%;
+    padding-right: 5%;
+    padding-left: 5%;
 }
