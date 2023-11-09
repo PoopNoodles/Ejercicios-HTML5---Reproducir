@@ -1,0 +1,41 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.htmlCSS-title-container {
+    width: 100%;
+}
+
+.htmlCSS-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.html-subtitle-container {
+    background-color: #808080;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 5%;
+}
+
+.html-subtitle {
+    padding: 2%;
+}
+
+.html-paragraph-container {
+    margin-left: 22%;
+    margin-right: 22%;
+}
+
+.html-paragraph {
+
+}
+
+.html-logo-img {
+    float: left;    
+    width: 30%;
+    height: 40%;
+}
