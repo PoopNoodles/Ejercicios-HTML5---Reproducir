@@ -14,27 +14,23 @@ body {
     align-items: center;
 }
 
-.html-subtitle-container {
+.subtitle-container {
     background-color: #808080;
     margin-left: 20%;
     margin-right: 20%;
     height: 5%;
 }
 
-.html-subtitle {
+.subtitle {
     padding: 2%;
 }
 
-.html-paragraph-container {
+.paragraph-container {
     margin-left: 22%;
     margin-right: 22%;
 }
 
-.html-paragraph {
-
-}
-
-.html-logo-img {
+.logo-img {
     float: left;    
     width: 30%;
     height: 40%;
